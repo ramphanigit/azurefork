@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ramphanim/ramphanim/_apis/build/status/ramphanigit.azurefork?branchName=master)](https://dev.azure.com/ramphanim/ramphanim/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
